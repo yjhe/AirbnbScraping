@@ -1,0 +1,65 @@
+ListingID,Title,UserID,baseurl,Price,AboutListing,HostName,MemberDate,Lat,Long,BookInstantly,Cancellation,OverallCounter,PageCounter,PageNumber,A_AC,A_Breakfast,A_CableTV,A_CarbonMonoxDetector,A_Doorman,A_Dryer,A_TV,A_Elevator,A_Essentials,A_Events,A_FamilyFriendly,A_FireExt,A_Fireplace,A_FirstAidKit,A_Gym,A_Heat,A_HotTub,A_Intercom,A_Internet,A_Kitchen,A_Parking,A_Pets,A_Pool,A_SafetyCard,A_Shampoo,A_SmokeDetector,A_Smoking,A_Washer,A_Wheelchair,P_Cleaning,P_Deposit,P_ExtraPeople,P_Monthly,P_Weekly,R_CI,R_acc,R_clean,R_comm,R_loc,R_val,RespRate,RespTime,S_Accomodates,S_Bathrooms,S_BedType,S_Bedrooms,S_CheckIn,S_Checkout,S_NumBeds,S_PropType,ShortDesc
+7749401,Aug 2015,10229402,https://www.airbnb.com/s/Cambridge--MA?page=1,40,,Emma, November 2013,42.37323822110586,-71.11253439665866,No,Flexible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,Not Found,Not Found,Not Found,5.0,4.5,3.0,5.0,5.0,4.5,58%,within a few hours,1,0,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Private room
+         · "
+4117260,Oak Room,21360405,https://www.airbnb.com/s/Cambridge--MA?page=1,100,,Maria, September 2014,42.37249610229841,-71.10873276004313,No,Strict,2,2,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,$20,Not Found,No Charge,Not Found,Not Found,5.0,5.0,5.0,5.0,5.0,5.0,Not Found,Not Found,2,2,Real Bed,1,12:00 PM (noon),11:00 AM,1,Apartment,"
+        Private room
+         · "
+7999097,Fawlty Towers (entire apartment),42225096,https://www.airbnb.com/s/Cambridge--MA?page=1,130,,Austin, August 2015,42.37608897725513,-71.13152026270446,No,Flexible,3,3,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,Not Found,Not Found,No Charge,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,100%,within an hour,4,1,Not Found,2,4:00 PM,12:00 PM (noon),2,Apartment,"
+        Entire home/apt
+        
+         · 1 review
+      "
+7725284,Cozy in the heart of Harvard Square,8517949,https://www.airbnb.com/s/Cambridge--MA?page=1,145,,Andrew, August 2013,42.37090004153532,-71.11969893980867,No,Moderate,4,4,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$800,4.0,5.0,4.5,3.5,5.0,4.5,100%,within a few hours,4,1,Real Bed,1,2:00 PM,12:00 PM (noon),1,Apartment,"
+        Entire home/apt
+         · "
+8016696,"Simple, comfy, and convenient",7412057,https://www.airbnb.com/s/Cambridge--MA?page=1,75,,Melissa, July 2013,42.36668497681192,-71.11405612829849,No,Flexible,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,Not Found,Not Found,$475,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,100%,within a few hours,1,1,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Private room
+        
+         · 1 review
+      "
+4876965,Get your geek on!  Cozy room by MIT,530251,https://www.airbnb.com/s/Cambridge--MA?page=1,79,,Jeff, April 2011,42.369038977665504,-71.09248642942596,No,Flexible,6,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$499,5.0,5.0,5.0,5.0,4.5,5.0,100%,within a few hours,2,1,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Private room
+         · "
+4932029,Garden-level studio apartment,25407755,https://www.airbnb.com/s/Cambridge--MA?page=1,120,,Nora, December 2014,42.397052938746064,-71.13305195475417,No,Moderate,7,7,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,Not Found,Not Found,$700,5.0,5.0,5.0,5.0,5.0,5.0,100%,within an hour,2,1,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Entire home/apt
+         · "
+8095366,Full Apt in Prime Location-Harvard,42748925,https://www.airbnb.com/s/Cambridge--MA?page=1,175,,Elena, August 2015,42.37497839901221,-71.13741044465934,No,Flexible,8,8,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$1250,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,2,1,Not Found,2,Not Found,Not Found,2,Apartment,"
+        Entire home/apt
+        
+        
+      "
+5592996,"Sunny 2BR, Harvard, MIT, Central Sq",16131390,https://www.airbnb.com/s/Cambridge--MA?page=1,89,,Clement, May 2014,42.36577258096058,-71.11491085095065,No,Moderate,9,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$599,4.5,4.5,4.5,5.0,4.5,4.5,100%,within an hour,2,1,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Private room
+         · "
+8064306,"On the Charles Private Room, MIT",5697629,https://www.airbnb.com/s/Cambridge--MA?page=1,65,,Peggy, March 2013,42.35518650787813,-71.10281333514902,No,Flexible,10,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$400,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,100%,within an hour,2,1,Real Bed,1,Not Found,Not Found,1,Dorm,"
+        Shared room
+        
+        
+      "
+5603940,Room 15min from Harvard & MIT,21819215,https://www.airbnb.com/s/Cambridge--MA?page=1,130,,Natacha, September 2014,42.373291612488806,-71.10913049869963,No,Flexible,11,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$714,5.0,5.0,4.5,5.0,5.0,5.0,100%,within an hour,2,0.5,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Private room
+         · "
+6090697,Comfy private room in Cambridge,16244988,https://www.airbnb.com/s/Cambridge--MA?page=1,89,,Samuels, June 2014,42.365772409027365,-71.11275473684847,No,Flexible,12,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,Not Found,Not Found,Not Found,5.0,5.0,4.5,5.0,4.5,4.5,100%,within an hour,1,1,Real Bed,1,Not Found,Not Found,1,Apartment,"
+        Private room
+         · "
+4232852,Harvard•MIT•Private Rm 1•Parking•TV,5608628,https://www.airbnb.com/s/Cambridge--MA?page=1,125,,Suzana, March 2013,42.36975123868141,-71.10122396394908,No,Moderate,13,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,$20,Not Found,$10 / night after the first guest,Not Found,Not Found,5.0,5.0,5.0,5.0,5.0,5.0,100%,within an hour,2,1,Real Bed,1,2:00 PM,12:00 PM (noon),1,House,"
+        Private room
+         · "
+6479392,Great location Harvard/Porter Sq.,3381894,https://www.airbnb.com/s/Cambridge--MA?page=1,72,,Serena, August 2012,42.38224096251667,-71.12040237335275,No,Flexible,14,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,Not Found,Not Found,Not Found,5.0,5.0,4.5,5.0,5.0,5.0,100%,within a few hours,1,0.5,Real Bed,1,Not Found,Not Found,1,House,"
+        Private room
+         · "
+798213,Cambridge-Davis-Tufts-Harvard-MIT,4169689,https://www.airbnb.com/s/Cambridge--MA?page=1,75,,Javier, November 2012,42.40078227698563,-71.13642084942578,No,Moderate,15,15,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,$10,$125,Not Found,Not Found,Not Found,5.0,5.0,4.5,5.0,4.5,5.0,100%,within an hour,2,1,Real Bed,1,5:00 PM,4:00 PM,1,House,"
+        Private room
+         · "
+1161423,Friendly Private Room in Cambridge,5063372,https://www.airbnb.com/s/Cambridge--MA?page=1,78,,Vivian, February 2013,42.37336269319657,-71.10913072362152,No,Flexible,16,16,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,No Charge,Not Found,Not Found,5.0,5.0,5.0,5.0,5.0,5.0,96%,within an hour,2,1,Pull-out Sofa,1,Not Found,Not Found,1,Apartment,"
+        Private room
+         · "
+7914897,Modern Apartment in Harvard Square,7252902,https://www.airbnb.com/s/Cambridge--MA?page=1,68,,Andrew, July 2013,42.373950305908046,-71.11078795273916,No,Moderate,17,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$500,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,100%,within an hour,2,1,Real Bed,1,2:00 PM,11:00 AM,1,Apartment,"
+        Private room
+        
+        
+      "
+124998,Mid-Cambridge Carriage House,622255,https://www.airbnb.com/s/Cambridge--MA?page=1,100,,Charles, May 2011,42.372745200652425,-71.10670411537917,No,Moderate,18,18,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,Not Found,Not Found,No Charge,Not Found,$600,5.0,5.0,5.0,5.0,5.0,5.0,100%,within a few hours,2,1,Real Bed,1,3:00 PM,11:00 AM,1,House,"
+        Private room
+         · "
